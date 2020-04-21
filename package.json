@@ -1,0 +1,21 @@
+{
+  "name": "node-youtube",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maksym Topor <maxim.topor@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
